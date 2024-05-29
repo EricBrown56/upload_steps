@@ -1,0 +1,10 @@
+Steps to upload to Github
+
+1. Create a read me file in terminal. Ex. echo "This is my read me file >> README.md
+2. Initialize the git repository. Ex.  git init
+3. Add the files you want. Ex. git add . or git add <file name>
+4. Leave a commit comment. Ex. git commit -m "first commit"
+5. Set up the branch. Ex. git branch -M main
+6. Set up the remote link to github. Ex. git remote add origin <github link here>
+7. Push the data to the server. Ex. git push -u origin main
+
